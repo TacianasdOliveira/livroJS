@@ -1,2 +1,4 @@
 # livroJS
- exercícios livro lógica de programação com JavaScript
+
+livro lógica de programação com JavaScript *Autor Edécio Fernando* 
+ 
